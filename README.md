@@ -1,2 +1,5 @@
 # hello-world
-I need inspiration,who can tell me?
+I need inspiration,
+How can I code swiftly?
+( ⊙ o ⊙ )！
+先写几个编程题目吧ε=(´ο｀*)))
